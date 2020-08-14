@@ -1,5 +1,5 @@
 # tim-onboarding
-This project has the templates that the clients need to run in order to start using TIM.
+This project has the templates that the clients need to run in order to start using Taloflow Infrastructure Manager (TIM).
 
 ## Templates
 We currently have 3 cloudformation templates:
